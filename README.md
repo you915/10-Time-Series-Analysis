@@ -113,7 +113,7 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 Use the results of the linear regression analysis and modelling to answer the following question:
 
 ## Does this model perform better or worse on out-of-sample data compared to in-sample data?
-* RMSE for Out-of-sample is lower (0.64) as compared to in-sample (0.84). 
+- RMSE for Out-of-sample is lower (0.64) as compared to in-sample (0.84). 
 - This model performs better on out-of-sample data
 - - -
 
