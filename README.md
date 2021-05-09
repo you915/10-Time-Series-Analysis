@@ -1,4 +1,4 @@
-# Unit 10—A Yen for the Future
+# A Yen for the Future
 
 ![Yen Photo](Images/unit-10-readme-photo.png)
 
@@ -6,9 +6,9 @@
 
 The financial departments of large companies often have to make foreign currency transactions when doing international business, while hedge funds are also interested in anything that will provide an edge in predicting currency movements. Hence, both are always eager to gain a better understanding of the future direction and risk of various currencies. 
 
-In this assignment, you will test the many time series tools that you have learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
+I will be testing the many time series tools that you have learned in order to predict future movements in the value of the Canadian dollar versus the Japanese yen.
 
-You will gain proficiency in the following tasks:
+Project Target:
 
 1. Time series forecasting
 2. Linear regression modelling
@@ -25,7 +25,6 @@ You will gain proficiency in the following tasks:
 
 - - -
 
-### Instructions
 
 #### Time-Series Forecasting
 
@@ -123,16 +122,6 @@ Use the results of the linear regression analysis and modelling to answer the fo
 * In-sample data is data that the model was trained on (training data).
 
 - - -
-
-### Submission
-
-* Create Jupyter Notebooks for the analysis and host the notebooks on GitHub.
-
-* Include a markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
-
----
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
